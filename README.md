@@ -35,3 +35,6 @@ TASKS --
 # Dependency on Next Residency
 7. Choose the right NN archictecture and algorithm
 8. Evaluation params and metrics 
+
+
+# A tentative guide for report --> https://drive.google.com/drive/u/0/folders/1UE2gHp4GVQ5xQjf7ebvHbUVuWN8iXsXg
