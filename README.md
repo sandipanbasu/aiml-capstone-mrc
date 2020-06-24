@@ -14,30 +14,3 @@ The functional problem that this system will target will be either one of the be
 * Help to build a knowledge base of products from a product’s user manual and then provide quick answer for questions around it- can be used to reply to user queries about it
 * Application in legal tech
 * News QnA
-
-Reference - http://ec2-18-191-73-4.us-east-2.compute.amazonaws.com:8000/
-
-TASKS --
-0. Literature Review - follow the bible https://arxiv.org/pdf/1907.01686.pdf
-0.1 Bible - https://arxiv.org/pdf/1907.01686.pdf
-0.2 Baseline Accuracy model
-1. Overall Architecture - Sandipan
-2. Training Dataset finalization 
-  -- Squad 2.0 
-  -- NewsQnA
-3. EDA on data - follow the bible
-3.1 Understand data - structure etc 
-3.2 Write a data processing pipeline to combine multiple data set
-4. Word to Vector 
-5. Basic User Interface
-6. Multi-lingual support
-
-# Dependency on Next Residency
-7. Choose the right NN archictecture and algorithm
-8. Evaluation params and metrics 
-
-
-# A tentative guide for report --> https://drive.google.com/drive/u/0/folders/1UE2gHp4GVQ5xQjf7ebvHbUVuWN8iXsXg
-
-
-# Sample project page https://allenai.github.io/bi-att-flow/
